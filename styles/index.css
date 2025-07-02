@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 600px;
+    margin: 16px auto;
+}
+
+h1 {
+    background-color: #333;
+    color: whitesmoke;
+    padding: 8px 16px;
+    text-align: center;
+}
+    
+ul {
+    list-style-type: none;
+    background-color: rgb(222, 222, 203);
+    text-align: center;
+    padding: 8px 0;
+}
+
+li {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    margin: 4px;
+}
+
+a {
+    color: #333;
+}
